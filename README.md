@@ -6,7 +6,7 @@ Bienvenue sur **Fram X** ! 🎉
 
 ## Description
 
-**Fram X** est un projet personnel destiné à [expliquer la fonction exacte de ton site, par exemple : partager des ressources musicales et éducatives, offrir un espace pour des cours en ligne, ou tout autre but spécifique]. Le site utilise une structure légère et optimisée pour le web afin d'offrir une expérience utilisateur agréable sur n'importe quel appareil.
+**Fram X** est un projet personnel destiné à partager des ressources musicales et éducatives, offrir un espace pour des cours en ligne, ou tout autre but spécifique]. Le site utilise une structure légère et optimisée pour le web afin d'offrir une expérience utilisateur agréable sur n'importe quel appareil.
 
 ### Technologies utilisées :
 - **HTML5** pour la structure du contenu.
