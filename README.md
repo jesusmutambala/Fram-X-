@@ -2,7 +2,7 @@
 
 Bienvenue sur **Fram X** ! 🎉
 
-**Fram X** est un site web dynamique créé avec **HTML**, **CSS** et **JavaScript**. Il a été conçu pour fournir une interface simple et fluide permettant aux utilisateurs de découvrir [ajouter une fonctionnalité spécifique, par exemple : des informations sur la musique vocale, des ressources éducatives, etc.]. Le projet est open-source et il est libre à toute contribution.
+**Fram X** est un site web dynamique créé avec **HTML**, **CSS** et **JavaScript**. Il a été conçu pour fournir une interface simple et fluide permettant aux utilisateurs de découvrir des informations sur la musique vocale, des ressources éducatives, etc. Le projet est open-source et il est libre à toute contribution.
 
 ## Description
 
